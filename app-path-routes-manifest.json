@@ -1,0 +1,20 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/finance/page": "/admin/finance",
+  "/api/export-finance/route": "/api/export-finance",
+  "/api/tts/route": "/api/tts",
+  "/api/whatsapp/logout/route": "/api/whatsapp/logout",
+  "/api/whatsapp/status/route": "/api/whatsapp/status",
+  "/book/page": "/book",
+  "/doctor/finance/page": "/doctor/finance",
+  "/doctor/page": "/doctor",
+  "/doctor/patient/[id]/page": "/doctor/patient/[id]",
+  "/doctor/patients/page": "/doctor/patients",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/patient/page": "/patient",
+  "/queue/page": "/queue",
+  "/secretary/page": "/secretary"
+}
